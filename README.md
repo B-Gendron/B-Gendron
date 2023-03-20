@@ -27,6 +27,7 @@ My main research interests at the moment revolve around **natural language proce
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/docker/docker-original.svg" />
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="vscode" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jupyter/jupyter-original.svg"/>
+<img align="left" alt="rstudio" width="30px" style="padding-right:10px;" src="https://www.comparasoftware.com/wp-content/uploads/2018/07/logorstudio.png"/>
 
 </p>
 
