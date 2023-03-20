@@ -1,5 +1,10 @@
 # Hi, I’m @B-Gendron 👋
-I’m currently studying data science at the University of Luxembourg, as a double degree with École des Mines de Nancy (France).  
+I’m a **data science** student at the École des Mines de Nancy (France) and University of Luxembourg.  
+I'm currently a **research intern** at LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications), Nancy (France).  
+
+My main research interests at the moment revolve around **natural language processing**. Typically, I am currently working on:
+- understanding the language-agnostic and language-specific aspects of multilingual language models
+- using meta-learning methods for emotion prediction in a conversational context
 
 ---
 
