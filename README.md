@@ -1,6 +1,7 @@
 # Hi, I’m @B-Gendron 👋
-I’m a **data science** student at the École des Mines de Nancy (France) and University of Luxembourg.  
-I'm currently a **NLP research intern** at LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications), Nancy (France). 
+I’m a data science student at the École des Mines de Nancy (France) and University of Luxembourg. I'm currently a NLP research intern at LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications) in Nancy (France).  
+
+Want to know more about my research interests and projects? Check out [my academic website](https://b-gendron.github.io/).
 
 ---
 
