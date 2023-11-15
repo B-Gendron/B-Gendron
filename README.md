@@ -1,7 +1,7 @@
 # Hi, I’m @B-Gendron 👋
-I’m a data science student at the École des Mines de Nancy (France) and University of Luxembourg. I'm currently a NLP research intern at LORIA (Laboratoire Lorrain de Recherche en Informatique et ses Applications) in Nancy (France).  
+I’m a first year PhD student working on **knowledge-enhanced conversational models**, therefore my research revolves around ontology development and LLMs fine-tuning. I graduated from École des Mines de Nancy and I hold a Master’s degree in Data Science from the University of Luxembourg.  
 
-Want to know more about my research interests and projects? Check out [my academic website](https://b-gendron.github.io/).
+Want to know more about my research activities? Check out [my academic website](https://b-gendron.github.io/).
 
 ---
 
